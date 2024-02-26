@@ -13,7 +13,3 @@
 * `gp open /var/log/apache2/access.log` - Open Apache access.log in Gitpod editor
 * `gp open /var/log/apache2/error.log` - Open Apache error.log in Gitpod editor
 * `multitail /var/log/apache2/access.log -I /var/log/apache2/error.log` - View and follow logs in Terminal
-
-## How it looks like
-
-![Screenshot](/screenshot.png)
